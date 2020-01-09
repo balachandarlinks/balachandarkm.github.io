@@ -7,7 +7,7 @@ title: Audify Version 1.0 - Idea to App in 90 days - Part I
 
 ---
 
-![Audify App](https://cdn-images-1.medium.com/max/2048/1*oLl8lVyLMrAJZvMl6xShOw.png)
+![Audify App](./images/audify_blog_post_header.png)
 
 Hello Folks,
 
