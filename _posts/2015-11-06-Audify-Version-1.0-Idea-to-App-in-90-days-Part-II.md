@@ -8,7 +8,7 @@ title: Part II — Audify Version 1.00 — Idea to App in 90 days
 
 ---
 
-![Audify App](./images/audify_blog_post_header.png)
+![](../images/audify_blog_post_header.png)
 
 > [**Click here for Part I**](https://balachandarlinks.github.io/audify-version-1-0-idea-to-app-in-90-days-part-i/)
 
