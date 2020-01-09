@@ -4,7 +4,7 @@ layout: post
 firstPublishedAt: 1446832111474
 latestPublishedAt: 1446972788812
 slug: audify-version-1-00-idea-to-app-in-90-days
-title: Audify Version 1.00 — Idea to App in 90 days - Part II
+title: Audify Version 1.0 - Idea to App in 90 days - Part II
 
 ---
 
