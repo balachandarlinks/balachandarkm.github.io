@@ -35,6 +35,6 @@ I shared the app to few other friends and started using regularly. And then I ma
 
 Audify needs to be an almost UI less app which needs to step in when needed and step out when not needed without any user effort. So I wanted to make the home screen enjoyable and rememberable. I don’t want it to be a list of boring list of settings. So I gave life to Audify via Audify bot. The character which sits in Audify’s homescreen and explains the status of Audify as you do something. It gave me lot of freedom and opportunity to delight my users with animations.
 
-> [to be continued in **part II** …](https://medium.com/@balachandarkm/audify-version-1-00-idea-to-app-in-90-days-4d7be2393848)
+> [to be continued in **part II** …](https://balachandarlinks.github.io/audify-version-1-00-idea-to-app-in-90-days/)
 
 Meanwhile do checkout my app [here](https://goo.gl/lST1u8) and share your feedback folks..
