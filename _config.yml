@@ -11,7 +11,7 @@ description: Android Developer
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/7487109?s=400&u=f7f33cea863e55b2cc675a52db96d04e6dcabfb9&v=4
 
-remote_theme: poole/lanyon
+remote_theme: benbalter/retlab
 
 #
 # Flags below are optional
