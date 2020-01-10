@@ -7,11 +7,9 @@ title: Audify Version 1.0 - Idea to App in 90 days - Part I
 
 ---
 
-![](../images/audify_blog_post_header.png)
-
-Hello Folks,
-
 I just released a new android app called [**Audify**](https://goo.gl/lST1u8) in the Playstore. In short it reads your notifications and smartly skips the annoying notifications. It took 90 days for me to convert the idea into an app. I want to share the different phases that I have gone through over this period and the lessons I learned.
+
+![](../images/audify_blog_post_header.png)
 
 > **Idea**
 
