@@ -54,6 +54,6 @@ Audify had a free promotion at the start of Jan 2016 and it offered the unlimite
 
 **Helpdesk** solutions are really a better way to handle app support. Just setup and forward your support emails to your preferred helpdesk solution. It will automatically create tickets and lets you handle every customer at ease. But it depends on how affordable they are. I have opted for [Freshdesk](https://freshdesk.com/). It offers free service upto 3 agents and you pay for every additional agent which fits very well with indie developers. As you grow, you can scale your helpdesk as well. But feel free to look at different helpdesk solutions and choose the one that fits you.
 
-![](../images/first-class-app-support-by-indie-developers/7.png)
+![](../images/first-class-app-support-by-indie-developers/7.gif)
 
 Do share your feedback and help every indie developer provide **first class app support**.
