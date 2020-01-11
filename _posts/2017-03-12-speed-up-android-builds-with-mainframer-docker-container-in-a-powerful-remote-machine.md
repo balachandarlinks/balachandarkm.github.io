@@ -8,9 +8,9 @@ title: Speed-up Android builds with Mainframer (Docker container in a powerful r
 
 ---
 
-![](https://cdn-images-1.medium.com/max/614/1*QIv5GIhGVF_K8Z43aEr2nA.gif)
-
 My 13" Mac book Pro takes **~4 mins** for a clean gradle build of an android app at work, But my colleague’s powerful desktop machine takes only **~50 secs** for the same clean debug build. What if I can borrow some processing power from my colleague’s machine to make my builds? That’s the idea behind [Mainframer](https://github.com/gojuno/mainframer). If this interests you then buckle up and grab a ☕ to go through setup of mainframer
+
+![](https://cdn-images-1.medium.com/max/614/1*QIv5GIhGVF_K8Z43aEr2nA.gif)
 
 # Mainframer
 
