@@ -8,9 +8,9 @@ title: Audify Version 1.0 - Idea to App in 90 days - Part II
 
 ---
 
-> [**Click here for Part I**](https://balachandarlinks.github.io/audify-version-1-0-idea-to-app-in-90-days-part-i/)
+Started as a weekend exploration. But Audify quickly became a solid pet project and a playground to keep me engaged in my spare time. 
 
-Started as a weekend exploration. But Audify quickly became a solid pet project and a playground to keep me engaged in my spare time.
+[**Click here for Part I**](https://balachandarlinks.github.io/audify-version-1-0-idea-to-app-in-90-days-part-i/)
 
 ![](../images/audify_blog_post_header.png)
 
