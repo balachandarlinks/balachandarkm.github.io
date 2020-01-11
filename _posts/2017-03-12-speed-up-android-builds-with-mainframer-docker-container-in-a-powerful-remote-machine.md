@@ -10,7 +10,7 @@ title: Speed-up Android builds with Mainframer (Docker container in a powerful r
 
 My 13" Mac book Pro takes **~4 mins** for a clean gradle build of an android app at work, But my colleague’s powerful desktop machine takes only **~50 secs** for the same clean debug build. What if I can borrow some processing power from my colleague’s machine to make my builds? That’s the idea behind [Mainframer](https://github.com/gojuno/mainframer). If this interests you then buckle up and grab a ☕ to go through setup of mainframer
 
-![](https://cdn-images-1.medium.com/max/614/1*QIv5GIhGVF_K8Z43aEr2nA.gif)
+![](../images/speed-up-android-builds-with-mainframer-docker-container-in-a-powerful-remote-machine/1.gif)
 
 # Mainframer
 
@@ -42,7 +42,7 @@ $docker images
 
 to list the available images. You should be able to see the image that we just built.
 
-![Docker images](https://cdn-images-1.medium.com/max/4000/1*4C-mJTOt5K7nTMr4q_WofA.png)
+![Docker images](../images/speed-up-android-builds-with-mainframer-docker-container-in-a-powerful-remote-machine/2.png)
 
 Let’s instantiate a docker container with this image,
 
@@ -56,15 +56,15 @@ This will instantiate a new docker container with the given name in detached mod
 $docker ps
 ```
 
-![Docker container](https://cdn-images-1.medium.com/max/4152/1*r5d1_D7qMCXAZcd6W3cWhQ.png)
+![Docker container](../images/speed-up-android-builds-with-mainframer-docker-container-in-a-powerful-remote-machine/3.png)
 
 Let’s manage our docker container with a software called [Kitematic](https://kitematic.com/) which lets you control your docker containers via GUI(Graphical User Interface). Right click the docker whale icon on your menu bar and select Kitematic. It will prompt you to install on the first time and will open Kitematic once you have installed it.
 
 You should be able to see the container that we just initiated. Select the container, click settings and setup the port for the host machine through which the host machine will redirect incoming connections to the ssh server running inside our docker container.
 
-![Manager docker container](https://cdn-images-1.medium.com/max/4320/1*Lxor76vo2dHVezts6NtSpg.png)
+![Manager docker container](../images/speed-up-android-builds-with-mainframer-docker-container-in-a-powerful-remote-machine/4.png)
 
-![Configure the port of docker container communication](https://cdn-images-1.medium.com/max/4312/1*zJmDmFSngQDCoZBe6OkqVQ.png)
+![Configure the port of docker container communication](../images/speed-up-android-builds-with-mainframer-docker-container-in-a-powerful-remote-machine/5.png)
 
 Glad that you are still with me :) We have completed the setup of our remote build machine with a docker container which is waiting to receive commands.
 
@@ -76,7 +76,7 @@ We can verify it in the host machine. Run the following command,
 $ssh root@localhost -p <host_port_that_forwards_to_docker_container>
 ```
 
-![Test remote build system](https://cdn-images-1.medium.com/max/2344/1*oxEDbnSPnweZ4hF7DhmRLw.png)
+![Test remote build system](../images/speed-up-android-builds-with-mainframer-docker-container-in-a-powerful-remote-machine/6.png)
 
 Note: Default username/password of our remote build machine is root/root. This can be modified in the mainframer Dockerfile.
 
